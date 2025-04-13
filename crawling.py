@@ -14,7 +14,7 @@ class Crawling:
                  'Chrome/135.0.0.0 Mobile Safari/537.36'
                  )
                 }
-    API_KEY = "0888018c8c76afb4aabde033b49bda6b20cb25ed8a2cc1c3473faa058343c944"
+    API_KEY = "YOUR API KEY"
 
     #login 필요한 웹 browser인경우 사용
     def login():
