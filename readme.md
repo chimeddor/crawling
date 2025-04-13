@@ -1,4 +1,4 @@
-<H1>웹 리서치 자동화 도구 / Automated Web Research Tool </H1>
+<H3>웹 리서치 자동화 도구 / Automated Web Research Tool </H3>
 
 <p>사용자가 입력한 키워드를 기반으로 Google에서 검색을 수행하고, 검색 결과로 나온 웹페이지들을 순차적으로 방문한 후 해당 페이지의 주요 정보를 자동으로 추출하고 요약하는 웹 리서치 자동화 도구입니다.</p>
 
