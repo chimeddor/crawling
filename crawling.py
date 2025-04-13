@@ -1,8 +1,6 @@
 from serpapi import GoogleSearch
 from bs4 import BeautifulSoup as bs
-# import urllib.request
 import  requests
-from urllib.parse import quote_plus
 from typing import Any
 
 
